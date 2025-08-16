@@ -64,8 +64,6 @@ npm run dev # Start Vite dev server
 
 - OpenAPI schema: http://127.0.0.1:8000/api/schema/
 
-## API Documentation
-
 **Base URL:** `<BASE_URL>`
 
 - Swagger UI: `<BASE_URL>/api/docs/`
